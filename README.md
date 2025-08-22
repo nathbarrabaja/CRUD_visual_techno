@@ -24,7 +24,7 @@ Fue realizado como proyecto académico para practicar operaciones básicas con b
 
 ## Estructura
 - `/README.md` → Documentación del proyecto
-- `/CRUD_visual_techno/` → Código fuente del proyecto
+- `/Techno.sln` → Archivo de solución para abrir el proyecto en Visual Studio.
 - `Procedimientos Almacenados DBTechno.sql` → Base de datos del proyecto
 
 ## Autor
